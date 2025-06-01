@@ -38,6 +38,10 @@
 ###
 
 
+# Mission
+My mission is to help other people excel in Data Analytics
+
+
 </br></br>
 </br></br>
 
