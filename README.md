@@ -42,6 +42,20 @@
 My mission is to help other people excel in Data Analytics
 
 
+# Sills
+* Data Analysis
+  * Power BI
+  * Excel
+  * SQL
+
+* Documentation
+  * Microsoft Office Suite
+  * Notion
+
+# Project
+
+
+# Connect With Me
 </br></br>
 </br></br>
 
