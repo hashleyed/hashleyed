@@ -53,9 +53,11 @@ My mission is to help other people excel in Data Analytics
   * Notion
 
 # Project
+-----
 
 
 # Connect With Me
+----
 </br></br>
 </br></br>
 
