@@ -74,6 +74,12 @@ My **mission** is to help other people excel in _Data Analytics_.
 
 > [!WARNING]
 > Take care of your GitHub!
+
+
+```
+print("Hello World")
+```
+
 <!--- 
 # Hi my name is Hashleyed I am a Data Analyst
 
