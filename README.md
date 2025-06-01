@@ -63,6 +63,10 @@ My **mission** is to help other people excel in _Data Analytics_.
 </br></br>
 </br></br> 
 
+> [!NOTE]
+> Take care of your GitHub!
+
+
 <!--- 
 # Hi my name is Hashleyed I am a Data Analyst
 
