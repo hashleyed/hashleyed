@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome! 
 
 <h1 align="center">Hi 👋, I'm Hashleyed</h1>
 <h3 align="center">A passionate Data Analyst from US</h3>
