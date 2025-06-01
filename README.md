@@ -61,7 +61,7 @@ My mission is to help other people excel in Data Analytics
 </br></br>
 </br></br> 
 
-<! --- 
+<!--- 
 # Hi my name is Hashleyed I am a Data Analyst
 
 | Data Analyst | Transform Data |
