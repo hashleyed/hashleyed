@@ -41,7 +41,7 @@
 
 
 # Mission :dart:
-My mission is to help other people excel in Data Analytics
+My **mission** is to help other people excel in _Data Analytics_.
 
 
 # Sills
