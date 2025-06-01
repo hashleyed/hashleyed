@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋! My name is Hashleyed and I'm a Data Analyst from USA</h1>
 
+| Data Analyst | Trasnform data |
 ###
 
 <div align="left">
