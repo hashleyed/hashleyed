@@ -54,7 +54,7 @@ My mission is to help other people excel in Data Analytics
 
 # Project
 -----
-
+[Power BI Projects](https://github.com/hashleyed/Sales-Analysis): This repository contains projects completed in Power BI.
 
 # Connect With Me
 ----
