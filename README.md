@@ -80,6 +80,12 @@ My **mission** is to help other people excel in _Data Analytics_.
 print("Hello World")
 ```
 
+```
+Select *
+From data
+```
+
+
 <!--- 
 # Hi my name is Hashleyed I am a Data Analyst
 
