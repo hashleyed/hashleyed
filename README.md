@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Hashleyed and I'm a Data Analyst from USA</h1>
+<!--- <h1 align="left">Hi 👋! My name is Hashleyed and I'm a Data Analyst from USA</h1>
 
 | Data Analyst | Trasnform data |
 ###
@@ -59,7 +59,10 @@ My mission is to help other people excel in Data Analytics
 # Connect With Me
 ----
 </br></br>
-</br></br>
+</br></br> --->
+
+
+
 
 
 
