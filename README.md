@@ -61,8 +61,16 @@ My mission is to help other people excel in Data Analytics
 </br></br>
 </br></br> --->
 
+# Hi my name is Hashleyed I am a Data Analyst
 
+| Data Analyst | Transform Data |
 
+[LinkedIn](https://www.linkedin.com/in/edwigesongong/) | [YouTube](https://www.youtube.com/@esanalysis)
+
+# Mission
+My mission is to help
+
+# Skills
 
 
 
